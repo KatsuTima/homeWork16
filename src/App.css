@@ -1,0 +1,48 @@
+.conatiner {
+  width: 600px;
+  background-color:ghostwhite;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.uppdatevalue {
+  width: 400px;
+  height: 60px;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 10px;
+  background: gray;
+  margin-top: 20px;
+}
+.uppdatevalue h1 {
+  font-size: 23px;
+  text-transform: capitalize;
+}
+.input {
+  width: 400px;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  background-color: orange;
+  color: white;
+  outline: none;
+  margin: 0 auto;
+  margin-top: 10px;
+  font-size: 23px;
+}
+.static-items {
+  width: 400px;
+  height: 60px;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 10px;
+  background-color: gray;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.static-items h1 {
+  font-size: 23px;
+  text-transform: capitalize;
+  padding-top: 10px;
+}
